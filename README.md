@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Rodrigo Pires, I'm a junior developer. Python with Django, HTML5, CSS, Javascripts, Node.JS, I'm a cybersecurity student at Faculdade Impacta in Brazil</p>
+<p align="left">Meu nome é Rodrigo Pires, sou desenvolvedor júnior. Python com Django, HTML5, CSS, Javascripts, Node.JS, sou estudante de segurança cibernética na faculdade impacta no Brasil</p>
 
 <hr>
 
-<p align="left">Meu nome é Rodrigo Pires, sou desenvolvedor júnior. Python com Django, HTML5, CSS, Javascripts, Node.JS, sou estudante de segurança cibernética na faculdade impacta no Brasil</p>
+<p align="left">My name is Rodrigo Pires, I'm a junior developer. Python with Django, HTML5, CSS, Javascripts, Node.JS, I'm a cybersecurity student at Faculdade Impacta in Brazil</p>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">✨ developing since 2024<br>📚 I'm currently learning more about Node.js, Django and Cybersecurity<br>🎯 Objectives: to become a qualified and essential developer for the job market and also specialize in cybersecurity<br>🎲 Fun fact: I'm changing my career, I left nursing for information technology</p>
+<p align="left">✨ desenvolvendo desde 2024<br>📚 Atualmente estou aprendendo mais sobre Node.js, Django e Segurança Cibernética<br>🎯 Objetivos: me tornar um desenvolvedor qualificado e essencial para o mercado de trabalho e também me especializar em segurança cibernética<br>🎲 Curiosidade: Estou mudando de carreira, troquei a enfermagem pela informática</p>
 
 <hr>
 
-<p align="left">✨ desenvolvendo desde 2024<br>📚 Atualmente estou aprendendo mais sobre Node.js, Django e Segurança Cibernética<br>🎯 Objetivos: me tornar um desenvolvedor qualificado e essencial para o mercado de trabalho e também me especializar em segurança cibernética<br>🎲 Curiosidade: Estou mudando de carreira, troquei a enfermagem pela informática</p>
+<p align="left">✨ developing since 2024<br>📚 I'm currently learning more about Node.js, Django and Cybersecurity<br>🎯 Objectives: to become a qualified and essential developer for the job market and also specialize in cybersecurity<br>🎲 Fun fact: I'm changing my career, I left nursing for information technology</p>
 
 ###
 
