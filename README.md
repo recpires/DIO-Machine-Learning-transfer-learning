@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is Rodrigo Pires, I'm a junior developer. Python with Django, HTML5, CSS, Javascripts, Node.JS, I'm a cybersecurity student, from Brazil</p>
+<p align="left">My name is Rodrigo Pires, I'm a junior developer. Python with Django, HTML5, CSS, Javascripts, Node.JS, I'm a cybersecurity student at Faculdade Impacta in Brazil</p>
+
+###
+
+<p align="left">Meu nome é Rodrigo Pires, sou desenvolvedor júnior. Python com Django, HTML5, CSS, Javascripts, Node.JS, sou estudante de segurança cibernética na faculdade impacta no Brasil</p>
 
 ###
 
