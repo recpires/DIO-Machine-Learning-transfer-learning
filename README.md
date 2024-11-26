@@ -4,7 +4,7 @@
 
 <p align="left">My name is Rodrigo Pires, I'm a junior developer. Python with Django, HTML5, CSS, Javascripts, Node.JS, I'm a cybersecurity student at Faculdade Impacta in Brazil</p>
 
-###
+<hr>
 
 <p align="left">Meu nome é Rodrigo Pires, sou desenvolvedor júnior. Python com Django, HTML5, CSS, Javascripts, Node.JS, sou estudante de segurança cibernética na faculdade impacta no Brasil</p>
 
@@ -15,6 +15,10 @@
 ###
 
 <p align="left">✨ developing since 2024<br>📚 I'm currently learning more about Node.js, Django and Cybersecurity<br>🎯 Objectives: to become a qualified and essential developer for the job market and also specialize in cybersecurity<br>🎲 Fun fact: I'm changing my career, I left nursing for information technology</p>
+
+<hr>
+
+<p align="left">✨ desenvolvendo desde 2024<br>📚 Atualmente estou aprendendo mais sobre Node.js, Django e Segurança Cibernética<br>🎯 Objetivos: me tornar um desenvolvedor qualificado e essencial para o mercado de trabalho e também me especializar em segurança cibernética<br>🎲 Curiosidade: Estou mudando de carreira, troquei a enfermagem pela informática</p>
 
 ###
 
@@ -44,6 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="http://www.w3.org/2000/svg" height="40" alt="vscode logo"  />
+  
 </div>
 
 
